@@ -1,0 +1,30 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.2
+scipy==1.10.0
+
+# Machine learning frameworks
+scikit-learn==1.1.2
+tensorflow==2.11.0  # If using TensorFlow for deep learning models
+# or
+# pytorch==1.12.1  # If using PyTorch for deep learning models
+
+# For dimensionality reduction and clustering
+umap-learn==0.5.3
+hdbscan==0.8.29
+
+# For data visualization
+matplotlib==3.6.3
+seaborn==0.11.2
+
+# For handling large datasets
+dask==2022.2.0
+
+# For integrating multi-omics data (e.g., proteomics, transcriptomics)
+statsmodels==0.13.5
+
+# Jupyter Notebooks (optional, if you are using notebooks)
+jupyterlab==3.5.1
+
+# For handling missing data (e.g., imputation)
+fancyimpute==0.7.0
